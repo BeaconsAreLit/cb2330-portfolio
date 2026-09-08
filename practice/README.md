@@ -1,5 +1,5 @@
 ## Practice ideas: 
-<br>
+
 More formulas:
 1. Sum of squares
 2. Mean of absolute deviation
